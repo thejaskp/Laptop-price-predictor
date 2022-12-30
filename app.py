@@ -1,4 +1,5 @@
 import streamlit as st
+from sklearn.pipeline import Pipeline
 import pickle
 import numpy as np
 
